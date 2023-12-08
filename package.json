@@ -1,0 +1,16 @@
+{
+  "name": "qcoin",
+  "version": "1.0.0",
+  "description": "verison 1 baby ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "author": "Stephen Mortarelli",
+  "license": "ISC",
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "esm": "^3.2.25"
+  }
+}
